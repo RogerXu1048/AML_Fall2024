@@ -1,2 +1,3 @@
-# AML_Fall2024
-Evaluating Disentanglement in Data Representation
+# Evaluating Disentanglement in Data Representation
+
+We used 3DShapes dataset. To run, simply hit run for each `.ipynb` file!
